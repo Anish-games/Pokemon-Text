@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Include Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Battle\BattleManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Main\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Character\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Character\ProfessorOak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Utility\Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Battle\WildEncounterManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Caterpie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Pidgey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Zubat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Charmander.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Pikachu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Bulbasaur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\src\Pokemon\Pokemons\Squirtle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_&_work\Projects\Pokemon-Text\include\StatusEffects\ParalyzedEffect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Battle\BattleManager.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Battle\BattleState.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Main\Game.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Grass.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Character\Player.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemon.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\PokemonChoice.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\PokemonType.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Character\ProfessorOak.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Utility\Utility.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Battle\WildEncounterManager.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Caterpie.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Pidgey.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Zubat.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Charmander.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Pikachu.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Bulbasaur.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Battle\Move\move.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Battle\Move\MoveName.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\Pokemon\Pokemons\Squirtle.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_&_work\Projects\Pokemon-Text\include\StatusEffects\ParalyzedEffect.hpp">
+      <Filter>Include Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
